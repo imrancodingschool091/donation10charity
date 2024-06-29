@@ -79,7 +79,7 @@ const Donate = () => {
     <section className="donate">
       <form  onSubmit={handleSubmit(onSubmit)}>
         <div>
-          <img src="/websitelogo.png" alt="logo" />
+         <img src="/websitelogo.png" />
         </div>
         <div>
           <label>Show your love for Poors</label>
